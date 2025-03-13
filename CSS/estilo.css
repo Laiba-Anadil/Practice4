@@ -1,0 +1,24 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    min-height: 100vh;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+header{
+    background-color: #092b74a1;
+}
+.carousel-item{
+    height: 400px;
+}
+p{
+    text-align: justify;
+}
+.grid:hover{
+    transform: translateY(-10px);
+    opacity: 1;
+    cursor: pointer;
+}
+footer{
+    background-color: #092b74a1;
+}
