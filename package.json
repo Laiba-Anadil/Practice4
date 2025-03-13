@@ -8,5 +8,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laiba-Anadil/Practice4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Laiba-Anadil/Practice4/issues"
+  },
+  "homepage": "https://github.com/Laiba-Anadil/Practice4#readme",
   "description": ""
 }

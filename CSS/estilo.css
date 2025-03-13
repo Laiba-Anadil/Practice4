@@ -5,8 +5,15 @@ body{
     display: grid;
     grid-template-rows: auto 1fr auto;
 }
+main{
+    background-image: url(./../Images/PIC4.jpeg);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 header{
-    background-color: #092b74a1;
+    background-color: #0a255fa1;
 }
 .carousel-item{
     height: 400px;
@@ -14,11 +21,19 @@ header{
 p{
     text-align: justify;
 }
+h2{
+    color: #0a4fe2a4;
+}
 .grid:hover{
     transform: translateY(-10px);
     opacity: 1;
     cursor: pointer;
 }
+.mapa{
+    height: 600px;
+    width: 100%;
+    border: 0;
+}
 footer{
-    background-color: #092b74a1;
+    background-color: #0a255fa1;
 }
